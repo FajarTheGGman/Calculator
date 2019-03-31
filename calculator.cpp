@@ -40,7 +40,7 @@ if (inpt == 1){
     hasil = a / b;
 }
 
-cout << hasil << endl;
+cout << "Hasilnya adalah : " << hasil << endl;
 
 cout << endl;
 cin.get();
